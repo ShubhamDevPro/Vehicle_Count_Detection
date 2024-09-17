@@ -1,0 +1,16 @@
+google-cloud
+google-api-python-client
+python-dotenv
+oracledb
+google.generativeai
+python-shell
+FastAPI
+uvicorn
+APScheduler
+selenium
+keras
+numpy
+pandas
+scikit-learn
+tensorflow
+opencv-python
